@@ -1,2 +1,3 @@
-# SQL-practice
-Practicing SQL queries 
+# SQL-Queries
+
+
