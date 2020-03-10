@@ -1,3 +1,3 @@
 # SQL-Queries
 
-These are the SQl Queries I used to fetch data from a database table using **PostgreSQL**
+These are the SQL queries I used to fetch data from a database table using **PostgreSQL**
